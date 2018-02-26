@@ -5,4 +5,4 @@ Your goal is to try to "click" the mole that randomly appears in holes.<br>
 
 # Credit
 - https://p5js.org 
-- Laphatize (Pranav Ramesh
+- Laphatize (Pranav Ramesh)
